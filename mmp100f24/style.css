@@ -14,4 +14,6 @@ test-decoration: underline;
 img{ 
 position: relative;
   left:200px;
+width:300px;
+  border-radius:50;
 }
