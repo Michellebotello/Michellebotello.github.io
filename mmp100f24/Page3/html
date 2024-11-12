@@ -1,14 +1,27 @@
  <!DOCTYPE html>
 <html>
   <head>
-    <title>
+   <title>
+    <h1> My Time on Massachusettes </h1>
       CREATIVE CODING
     </title>
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-    <p>
+    <p> The year was 2016. At that time I was 11 years old during 4th grade. 
+     I was spending time studying during class. 
+     At some point, the teacher shows up which I don't remember if she announced properly before she asked my classmates’ food choice for the trip to Massachusetts.
+     Most of our food choices are only sandwiches of any kind, so mine was a turkey sandwich.
+     We were given a permission slip for our parents to sign in and we left for the day. 
+     When I arrived home, I showed mom the permission slip was a packet and signed it right away before she went shopping and packed some snacks for me. 
+     She insisted that I should stay in good shape and fed well through a long bus ride because Massachusetts is far below from New York which is nearly 3 hours.
+     A few days passed, the morning began and I arrived at school.
+     Everyone; teachers and students carrying their backpacks are waiting outside for the bus after parents dropped them off.
+     It did not take long enough before the bus finally arrived. 
+     We were ready to enjoy the ride. </p>
+
       the truth is out there
     </p>
-    <img id="sky" src="https://live.staticflickr.com/2702/4465318125_12da11ce7f_b.jpg" alt="photo of the northern lights"> 
-
+     https://www.flickr.com/photos/joeinpenticton/54128769543/in/explore-2024-11-11/
+   
+<img https://www.flickr.com/photos/joeinpenticton/54128769543/in/explore-2024-11-11/
